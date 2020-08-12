@@ -1,5 +1,5 @@
 # BlitzWays
-Amiga Blitz Basic Game Started in 9/1992, finished 6/2020<br>
+Commodore Amiga 500+/1200 Blitz Basic Game Started in 9/1992, finished 6/2020<br>
 Writeup: https://www.wertstahl.de/ways/<br>
 <br>
 (c) 1992,1996,2020 Sebastian I. Hartmann <br>
