@@ -26,7 +26,7 @@ Do not redistribute, quote or sell without written permission.<br>
 limited support via wertstahl[at]gmx[dot]de<br>
 (you should be knowing what you are doing, please no beginners, no Mac support)<br>
 <br>
-Warning: Sourcecode contains mixed german and english languaga.<br>
+Warning: Sourcecode contains very sparse documentation in mixed german and english language.<br>
 The code structure is awful. This was my actual first attempt at coding in BlitzBasic, learning by doing.<br>
 If you think my code is bad, you might be right, but i do not care. <br>
 It is released, finished, done.<br>
