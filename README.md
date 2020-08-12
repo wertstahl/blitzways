@@ -30,4 +30,7 @@ Warning: Sourcecode contains very sparse documentation in mixed german and engli
 The code structure is awful. This was my actual first attempt at coding in BlitzBasic, learning by doing.<br>
 If you think my code is bad, you might be right, but i do not care. <br>
 It is released, finished, done.<br>
+<br>
+Find .adf file in /rls (includes 'cracktro' as executable, which is not included as source because 3rd party) <br>
+<br>
 Kthxbai.
