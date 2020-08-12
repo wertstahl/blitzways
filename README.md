@@ -7,6 +7,7 @@ Original idea by ISK.<br>
 <br>
 /src contains:<br>
 Blitz Basic 2 Source code in Visual Studio Code for Windows,<br>
+requires Visual Studio Code for Windows,<br>
 requires <b>Blitz Basic for Amiga</b> extension by earok,<br>
 uses <b>Inline Bookmarks</b> extension by tintinweb.<br>
 <br>
