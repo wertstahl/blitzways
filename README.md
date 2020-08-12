@@ -27,7 +27,7 @@ limited support via wertstahl[at]gmx[dot]de<br>
 (you should be knowing what you are doing, please no beginners, no Mac support)<br>
 <br>
 Warning: Sourcecode contains mixed german and english languaga.<br>
-Code is very bad. This was my actual first attempt at coding in BlitzBasic, learning by doing.<br>
+The code structure is awful. This was my actual first attempt at coding in BlitzBasic, learning by doing.<br>
 If you think my code is bad, you might be right, but i do not care. <br>
 It is released, finished, done.<br>
 Kthxbai.
