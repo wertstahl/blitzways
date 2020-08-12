@@ -1,5 +1,6 @@
 # BlitzWays
 Amiga Blitz Basic Game Started in 9/1992, finished 6/2020
+Writeup: https://www.wertstahl.de/ways/
 
 (c) 1992,1996,2020 Sebastian I. Hartmann <br>
 Original idea by ISK.<br> 
