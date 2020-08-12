@@ -4108,7 +4108,7 @@ Buildcrypt:
               Dim calcdb(Len(Outdata$)+1)
 
               For e = 1 To 9*18
-              uux = (Asc(Mid$(Outdata$,e,1)))+20+e+e
+              uux = (Asc(Mid$(Outdata$,e,1)))+21+e+e
               If uux > 255 Then uux = uux - 255
               calcdb(e) = Int(uux)
               Next
@@ -4148,7 +4148,7 @@ LoadScores:
               
               Dim calcdb(Len(Indata$))
               For e = 1 To (Len(Indata$))
-              calcdb(e)=Int(Asc(Mid$(Indata$,e,1)))-20-e-e
+              calcdb(e)=Int(Asc(Mid$(Indata$,e,1)))-21-e-e
               If calcdb(e)<0 Then calcdb(e)=Int(calcdb(e)+255)
               Next
 
