@@ -1,0 +1,182 @@
+BLITZWAYS -- DOCS
+
+#HARDDISK-Installation
+
+Copy the Folder BlitzWaysV1.3 to your harddrive, wherever
+you like, perhaps your Games folder.
+
+In order for BlitzWays to run from Harddisk, you must
+add the following line to your s/user-startup file:
+
+ASSIGN Ways: <drive>:<path>
+
+<drive> will be the drive letters you copied ways to,
+for example DH1:
+<path> will be the full path where the BlitzWays program
+can be found, for example Games/BlitzWaysV1.3
+the full command would then be
+(example) ASSIGN Ways:  DH1:Games/BlitzWays1.3
+
+If the game crashes, make sure you have at least Kickstart2.0
+and 1MB Chip Memory free. Also the topaz font must be present.
+
+
+
+#Backstory:
+
+BlitzWays was originally called "Stone" and was a
+(MahJong clone) concept by ISK. He had a basic functioning
+version ready, for which he asked me to do the graphics
+and music in the summer of 1992. I took about 6 weeks
+to create the original graphics and music. Then,
+after a personal tragedy of his, he lost all interest in
+anything coding-related and the game was abandoned.
+
+In 1996, whilst transferring my Amiga files to an
+archive, i found the game sources and remembered.
+And subsequently decided to finish the game on my own,
+now in the last released version of BlitzBasic, Blitz2.
+
+Alot of things happened, like *life* and i let the game
+rest 70% finished, in my archive again.
+
+In 2004, a newly 3rd party coded version which i initiated,
+was made, for which i created all of the levels the game
+features now. The mobile version flopped, due to lack
+of interest and it took another 15 years for me to look
+at the sourcecode again, for reasons unknown.
+
+And thats when i thought, well,
+"hold my beer while i finish this, quickly."
+8 months and a very steep learning curve later,
+here we go. BlitzWays is finished.
+
+
+#About the game:
+
+BlitzWays is a concentration-demanding puzzle-deconstruction
+game in the fashion of MahJong and Lin-Wus Challenge.
+You pick pairs systematically from a large set of tiles and
+respect certain rules of alignment or accessibility.
+
+BlitzWays actually focuses on finding a way through
+a set of tiles that can be arranged in various formations,
+obstacles, traps and also dynamic diversions.
+
+The key to mastering BlitzWays is to quickly assess
+how many duplicates of certain tiles are there,
+what special dynamic factors and traps are in the map,
+and how to remove tiles in the best order, taking the shortest
+WAYS possible.
+
+Once you completed all levels, you would want to master
+the entire set of levels in the fastest time possible,
+resulting in the ultimate high score, rewarding you
+with the confidence of a truly focused mind.
+
+
+#How to play:
+
+Insert disk and let your ECS Amiga 500+ boot from it.
+
+
+Use Mouse to play. You will need to focus.
+This is a game that demands all of your concentration.
+
+To get a good idea how the game works, wait for the
+5th main game screen (autoplay demo) or play the tutorial.
+
+Click left to start playing at any time during the
+main-screen-show.
+
+All levels are arranged in a 8 by 8 tiles matrix.
+
+Click the first tile of the outer margin of any group
+of tiles and
+
+then select the matching identical tile,
+if it can be connected
+*by a pathWAY that turns 90 degrees TWICE in any direction.*
+
+The rule is: think around two corners. (A corner being 90 degrees)
+
+If the pathWAY between both tiles is not blocked by
+any other tile and has two 90 degree turns in any direction,
+the pick is valid and both tiles will be removed
+from the playfield. There are no guides except other
+tiles in the playingfield.
+
+If the playingfield is cleared before time runs out,
+the level can be completed. Bonuses for remaining
+time and accuracy of picking pairs of tiles apply.
+
+Misclicks are counted as "NO WAY!". You need to focus more.
+NO WAYs are forgiven after some time, when the game notices
+you are focused again.
+
+NO WAYs result in a penalty,
+which is deducted from your score after each completed level.
+
+
+These are the basic valid pathWAYs (can be rotated 90 degrees
+and vary in segment lenght): O = Tile, + = turn, - = Way
+
+O---+        O   O    O+
+    I        I   I     I   O   O
+    I        I   I     I   +---+
+    +---O    +---+    O+
+
+
+These pathWAYs for example are obviously INVALID:
+
+O-------O   O-----+   O----+    O
+                  I        I    I    O++O   O+
+                  I        I    I            O
+                  O        +----+
+
+If the same tile appears more than two times,
+be careful in which order you pick them,
+because the level can become unsolvable.
+(Those are traps.)
+
+Only quitting ( hit `ESC`) and trying
+again harder, will help you, then.
+
+
+
+Press `ESC` at any time to cancel or quit the game.
+
+Press M to toggle between Music and Sound Effects.
+
+Press P to pause and unpause.
+
+Please always exit the game by pressing <ESC> until
+you get back to the AMIGA DOS window.
+Only then will your highscores and level progress be saved.
+
+Do not write-protect the disk.
+Do not remove the disk from your amiga while playing.
+Do not alter any file or filename on the disk.
+
+(c) 1992,1996,2020 Sebastian I. Hartmann aka Wertstahl of Genesis Project
+BlitzWays is freeware. No sale or redistribution without permission.
+ 
+If you found a bug and you know what you are talking
+about, send me an email until the year 2045 to: wertstahl(at)gmx.net
+
+After that date, you probably are on your own and have to
+read the very terrible source code, which i mostly kept the
+way i started it: without any proper knowledge of how to code
+in Blitz2, in September of 1996. But instead, i recommend
+you just let an AI look at the game and make a new version.
+
+Last but not least - my thanks go to all the testers and people
+who helped me make this game possible. Also a huge thanks
+goes to Bonefish for coding the `cracktro` in a very professional
+manner and in an inhumanely short amount of time!
+
+best,
+SIH
+
+karlstein a.main, bavaria, 24-JUN-2020
+
