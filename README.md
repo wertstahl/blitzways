@@ -1,7 +1,7 @@
 # BlitzWays
-Amiga Blitz Basic Game Started in 9/1992, finished 6/2020
-Writeup: https://www.wertstahl.de/ways/
-
+Amiga Blitz Basic Game Started in 9/1992, finished 6/2020<br>
+Writeup: https://www.wertstahl.de/ways/<br>
+<br>
 (c) 1992,1996,2020 Sebastian I. Hartmann <br>
 Original idea by ISK.<br> 
 <br>
@@ -21,12 +21,13 @@ requires http://aminet.net/package/dev/blitz/CIATrkrLib.lha installed within Bli
 <br>
 Blitzways is designed to run on stock Amiga 1200, Amiga 500+. Minimum requirement: Kickstart 2.0, 1MB ChipMem.
 <br>
-Do not redistribute, quote or sell without written permission.
-(c)Copyrights apply
-limited support via wertstahl[at]gmx[dot]de
+Do not redistribute, quote or sell without written permission.<br>
+(c)Copyrights apply<br>
+limited support via wertstahl[at]gmx[dot]de<br>
 (you should be knowing what you are doing, please no beginners, no Mac support)<br>
 <br>
-Warning: Sourcecode contains mixed german and english languaga.
-Code is very bad. This was my actual first attempt at coding in BlitzBasic, learning by doing.
-If you think my code is bad, you might be right, but i do not care. 
-It is released, finished, done. Kthxbai.
+Warning: Sourcecode contains mixed german and english languaga.<br>
+Code is very bad. This was my actual first attempt at coding in BlitzBasic, learning by doing.<br>
+If you think my code is bad, you might be right, but i do not care. <br>
+It is released, finished, done.<br>
+Kthxbai.
