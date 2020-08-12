@@ -5,9 +5,6 @@ Writeup: https://www.wertstahl.de/ways/<br>
 (c) 1992,1996,2020 Sebastian I. Hartmann <br>
 Original idea by ISK.<br> 
 <br>
-All rights reserved. No sale or re/distribution without permission.<br>
-Music upload to amp.dascene.net or similar online preservation portals not permitted without explicit written permission.<br>
-<br>
 /src contains:<br>
 Blitz Basic 2 Source code in Visual Studio Code for Windows,<br>
 requires <b>Blitz Basic for Amiga</b> extension by earok,<br>
@@ -37,3 +34,5 @@ Kthxbai.<br>
 <br>
 BY USING THE ASSETS OF THIS REPOSITORY YOU ACKNOWLEDGE THE COPYRIGHTS STATED IN THE RESPECTIVE README FILES.
 Do not redistribute any of the graphics or audio files without prior written permission from the author.
+All rights reserved. No sale or re/distribution without permission.<br>
+Upload to amp.dascene.net or similar online preservation portals not permitted without explicit written permission.<br>
