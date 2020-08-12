@@ -33,4 +33,7 @@ It is released, finished, done.<br>
 <br>
 Find .adf file in /rls (includes 'cracktro' as executable, which is not included as source because 3rd party) <br>
 <br>
-Kthxbai.
+Kthxbai.<br>
+<br>
+BY USING THE ASSETS OF THIS REPOSITORY YOU ACKNOWLEDGE THE COPYRIGHTS STATED IN THE RESPECTIVE README FILES.
+Do not redistribute any of the graphics or audio files without prior written permission from the author.
