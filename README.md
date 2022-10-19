@@ -37,3 +37,4 @@ BY USING THE ASSETS OF THIS REPOSITORY YOU ACKNOWLEDGE THE COPYRIGHTS STATED IN 
 Do not redistribute any of the graphics or audio files without prior written permission from the author.
 All rights reserved. No sale or re/distribution without permission.<br>
 Upload to amp.dascene.net or similar online preservation portals not permitted without explicit written permission.<br>
+Any music provided in this repo is (c) by BCAD, all rights reserved
