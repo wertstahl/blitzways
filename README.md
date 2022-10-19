@@ -22,7 +22,7 @@ Blitzways is designed to run on stock Amiga 1200, Amiga 500+. Minimum requiremen
 Do not redistribute, quote or sell without written permission.<br>
 (c)Copyrights apply<br>
 limited support via wertstahl[at]gmx[dot]de<br>
-(you should be knowing what you are doing, please no beginners, no Mac support)<br>
+(just serious inquiries please, also: no Mac support)<br>
 <br>
 Warning: Sourcecode contains very sparse documentation in mixed german and english language.<br>
 The code structure is awful. This was my actual first attempt at coding in BlitzBasic, learning by doing.<br>
