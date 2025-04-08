@@ -19,8 +19,8 @@ requires http://aminet.net/package/dev/blitz/CIATrkrLib.lha installed within Bli
 <br>
 Blitzways is designed to run on stock Amiga 1200, Amiga 500+. Minimum requirement: Kickstart 2.0, 1MB ChipMem.
 <br>
-Do not forget to see Blitz2CompilerOptions.txt - or else there will be undebuggable errors!
-<br>
+Do not forget to see Blitz2CompilerOptions.txt - or else there will be undebuggable errors!<br>
+<br><br>
 Do not redistribute, quote or sell without written permission.<br>
 (c)Copyrights apply<br>
 limited support via wertstahl[at]gmx[dot]de<br>
