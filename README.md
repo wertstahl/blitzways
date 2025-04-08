@@ -17,9 +17,9 @@ Requires WinUAE or real hardware Amiga 500+/1200 with Amiga OS 3.0 installed,<br
 Blitz 2 V2.1 and SuperTed 2.24 installed,<br>
 requires http://aminet.net/package/dev/blitz/CIATrkrLib.lha installed within Blitz2.<br>
 <br>
-Blitzways is designed to run on stock Amiga 1200, Amiga 500+. Minimum requirement: Kickstart 2.0, 1MB ChipMem.
+Blitzways is designed to run on stock Amiga 1200, Amiga 500+. Minimum requirement: Kickstart 2.0, 1MB ChipMem.<br>
 <br>
-Do not forget to see Blitz2CompilerOptions.txt - or else there will be undebuggable errors!<br>
+Do not forget to read Blitz2CompilerOptions.txt - or else there might be undebuggable errors after compile!<br>
 <br><br>
 Do not redistribute, quote or sell without written permission.<br>
 (c)Copyrights apply<br>
