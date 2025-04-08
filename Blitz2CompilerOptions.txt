@@ -1,0 +1,28 @@
+You will have to manually set these compiler options in Blitz2 or... there will be trouble!
+(yes, some are duplicated)
+
+Windows 5
+Modules 8
+Stencils 5
+Sprites 20
+Shapes 512
+Screens 5
+Queues 10
+Palettes 4
+Menulists 5
+MedModules 8
+Gadgetlists 5
+Blitzfonts 4
+Files 5
+Coplists 10
+Tapes 5
+Slices 10
+Bitmaps 10
+Buffers 16
+GTlists 5
+Banks 5
+Sounds 18
+Anims 100
+Windows 5
+Consoles 5
+PTModules 8
