@@ -1834,7 +1834,7 @@ CheckIf1equ2:     ;Beide gefassten Steine gleich?
 
         mx = (ttx-32)/24 : my = (tty-32)/24
         Greif2 = matrix(mx+1,my+1)
-        If Greif AND Greif2 = 18 Then dice = 1 ; Wuerfel Reshuffle Matrix
+        If Greif = 18 AND Greif2 = 18 Then dice = 1 ; Wuerfel Reshuffle Matrix ; bug fix 10/2025
         If Greif2 = Greif Then Korrekt=1 : Return
         ;//@todo JOKER
         If Greif2 = 8 Then Korrekt = 1 : Return
