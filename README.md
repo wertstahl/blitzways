@@ -33,6 +33,8 @@ It is released, finished, done.<br>
 <br>
 Find .adf file in /rls (includes 'cracktro' as executable, which is not included as source because 3rd party) <br>
 <br>
+Bugfixed version 10/2025: corrected a graphics bug in the Tileset. Corrected the possibility of a false state in the fetch routine.
+<br>
 Kthxbai.<br>
 <br>
 BY USING THE ASSETS OF THIS REPOSITORY YOU ACKNOWLEDGE THE COPYRIGHTS STATED IN THE RESPECTIVE README FILES.
