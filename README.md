@@ -14,7 +14,7 @@ uses <b>Inline Bookmarks</b> extension by tintinweb.<br>
 /src also contains generated Amiga Blitz2 sourcecode:<br>
 generated with Visual Studio Code, use <b>Ways1.30.VSC</b> in SuperTed2.24:<br>
 Requires WinUAE or real hardware Amiga 500+/1200 with Amiga OS 3.0 installed,<br>
-Blitz 2 V2.1 and SuperTed 2.24 installed,<br>
+<b>Blitz 2 V2.1 and SuperTed 2.24 installed,</b><br>
 requires http://aminet.net/package/dev/blitz/CIATrkrLib.lha installed within Blitz2.<br>
 <br>
 Blitzways is designed to run on stock Amiga 1200, Amiga 500+. Minimum requirement: Kickstart 2.0, 1MB ChipMem.<br>
