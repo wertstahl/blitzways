@@ -13,6 +13,12 @@ uses <b>Inline Bookmarks</b> extension by tintinweb.<br>
 <br>
 /src also contains generated Amiga Blitz2 sourcecode:<br>
 generated with Visual Studio Code, use <b>Ways1.30.VSC</b> in SuperTed2.24:<br>
+<br>
+<i>Note: keep in mind that,<br>
+Ways1.30.VSC.bb2 is the plain text sourcecode to be edited in Visual Studio Code<br>
+Ways1.30.VSC  is a copy of the above at first but will become a tokenized version if saved with Blitz2/Superted<br>
+once tokenized, there is no way to edit the file in anything but SuperTed, except if you export it as ASCII.</i><br>
+<br>
 Requires WinUAE or real hardware Amiga 500+/1200 with Amiga OS 3.0 installed,<br>
 <b>Blitz 2 V2.1 and SuperTed 2.24 installed,</b><br>
 requires http://aminet.net/package/dev/blitz/CIATrkrLib.lha installed within Blitz2.<br>
